@@ -23,7 +23,7 @@
     {
       packages.default = pkgs.buildGoModule rec {
         pname = "tasg";
-        version = "1.0.1";
+        version = "1.0.2";
 
         src = ./.;
 
