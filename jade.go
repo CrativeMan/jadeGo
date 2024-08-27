@@ -1,4 +1,4 @@
-package tasg
+package main
 
 import (
 	"fmt"
