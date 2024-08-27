@@ -7,8 +7,8 @@ import (
 
 	homedir "github.com/mitchellh/go-homedir"
 
-	"main/cmd"
-	"main/db"
+	"tasg/cmd"
+	"tasg/db"
 )
 
 func main() {
