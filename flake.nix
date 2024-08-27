@@ -22,7 +22,7 @@
     in
     {
       packages.default = pkgs.buildGoModule rec {
-        pname = "jade";
+        pname = "tasg";
         version = "1.0.0";
 
         src = ./.;
