@@ -25,7 +25,9 @@
         pname = "jade";
         version = "1.0.0";
 
-        vendorHash = "sha256-jiy29BPPP2dojTT16uRVRnN3Cs2ZIl2WDmEp4eIcr7A=";
+        src = ./.;
+
+        vendorHash = "sha256-08I89i4/0yqtYLd7L6vM7UHZFgsA98LCEUOgAupB6+o=";
       };
 
       devShell = pkgs.mkShell {
