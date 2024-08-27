@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"main/db"
+	"tasg/db"
 )
 
 var addCmd = &cobra.Command{
